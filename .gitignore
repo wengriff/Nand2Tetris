@@ -4,6 +4,6 @@
 *.zip
 tools/
 projects/00/
+projects/demo/
 projects/.DS_Store
 .DS_Store
-demo/
