@@ -2,8 +2,16 @@
 *.cmp
 *.out
 *.zip
+*.hack
 tools/
 projects/00/
+projects/07/
+projects/08/
+projects/09/
+projects/10/
+projects/11/
+projects/12/
+projects/13/
 projects/demo/
 projects/.DS_Store
 .DS_Store
